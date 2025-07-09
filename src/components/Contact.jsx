@@ -45,7 +45,7 @@ const Contact = () => {
         <div className="space-y-4">
           <div className="flex items-center gap-4">
             <Mail className="text-blue-600 w-6 h-6" />
-            <span className="text-gray-700 text-lg">ashwithareddy811@gmail.com</span>
+            <span className="text-gray-700 text-lg">ashwithareddyn123@gmail.com</span>
           </div>
           <div className="flex items-center gap-4">
             <Phone className="text-green-600 w-6 h-6" />
@@ -64,7 +64,7 @@ const Contact = () => {
           </div>
           <div className="flex items-center gap-4">
             <FileDown className="text-purple-600 w-6 h-6" />
-            <a href="/resume.pdf" download className="text-gray-700 text-lg hover:underline">
+            <a href="/Resume.pdf" download className="text-gray-700 text-lg hover:underline">
               Download Resume (PDF)
             </a>
           </div>

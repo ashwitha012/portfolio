@@ -15,13 +15,13 @@ const Sidebar = () => {
       
       
       <a
-        href="mailto:ashwithareddy811@gmail.com"
+        href="mailto:ashwithareddyn123@gmail.com"
         className="text-gray-600 hover:text-red-600"
       >
         <Mail size={24} />
       </a>
       <a
-        href="/resume.pdf"
+        href="/Resume.pdf"
         download
         className="text-gray-600 hover:text-green-600"
       >
